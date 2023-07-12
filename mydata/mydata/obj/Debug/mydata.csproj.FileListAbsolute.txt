@@ -1,0 +1,16 @@
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\bin\Debug\mydata.exe
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\bin\Debug\mydata.exe.config
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\bin\Debug\mydata.pdb
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.csprojResolveAssemblyReference.cache
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.About.resources
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.Form1.resources
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.Form2.resources
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.Instructions.resources
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.product.resources
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.Properties.Resources.resources
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.csproj.GenerateResource.Cache
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.exe
+C:\Users\ff3\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\mydata\mydata\bin\Debug\mydata.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\mydata\mydata\obj\Debug\mydata.pdb
